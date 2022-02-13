@@ -24,6 +24,8 @@ const App = () => {
           <Routes>
             <Route path='/home' element={<HomePage />} />
             <Route path='/tracker/basic' element={<BasicTracker/>}/>
+            {/* // TODO(#1): create trackerPage for every year*/}
+            <Route path='/tracker/basic/:year' element={<div />}/>
             <Route path='/*' element={<Redirect location='home' />}/>
           </Routes>
         </MenuBar>
