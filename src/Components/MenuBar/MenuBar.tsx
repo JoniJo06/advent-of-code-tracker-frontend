@@ -62,7 +62,7 @@ const MenuBar = (props: Props) => {
     return (
       <Zoom in={trigger}>
         <Box
-          onClick={handleClick} role='presentation' sx={{ position: 'fixed', bottom: 16, right: 16 }}
+          onClick={handleClick} role='presentation' sx={{ position: 'fixed', bottom: 16, right: 40 }}
         >
           {children}
         </Box>
