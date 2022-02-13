@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect } from 'react';
+import { BrowserRouter, Route, Routes, useNavigate } from 'react-router-dom';
+import { MenuBar } from './Components';
+import { HomePage } from './Pages';
 
-function App() {
+type RedirectProps = {
+  location: string
+}
+
+const Redirect: React.FC<RedirectProps> = ({location}) => {
+  const navigate = useNavigate()
+  useEffect(()=>{
+    navigate('/' + location)
+  }, [location, navigate])
+  return <></>
+}
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BrowserRouter>
+        <MenuBar>
+          <Routes>
+            <Route path='/home' element={<HomePage />} />
+            <Route path='/*' element={<Redirect location='home' />}/>
+          </Routes>
+        </MenuBar>
+      </BrowserRouter>
     </div>
   );
-}
+};
 
 export default App;
