@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
 import { BrowserRouter, Route, Routes, useNavigate } from 'react-router-dom';
 import { MenuBar } from './Components';
-import { HomePage } from './Pages';
+import { HomePage, BasicTracker } from './Pages';
+import {Wrapper } from './App.styles'
 
 type RedirectProps = {
   location: string
@@ -17,16 +18,17 @@ const Redirect: React.FC<RedirectProps> = ({location}) => {
 
 const App = () => {
   return (
-    <div>
+    <Wrapper>
       <BrowserRouter>
         <MenuBar>
           <Routes>
             <Route path='/home' element={<HomePage />} />
+            <Route path='/tracker/basic' element={<BasicTracker/>}/>
             <Route path='/*' element={<Redirect location='home' />}/>
           </Routes>
         </MenuBar>
       </BrowserRouter>
-    </div>
+    </Wrapper>
   );
 };
 
