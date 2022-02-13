@@ -1,0 +1,541 @@
+{
+  "2015": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2016": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2017": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2018": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2019": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2020": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  },
+  "2021": {
+    "1": {
+      "title": "Not Quite Lisp"
+    },
+    "2": {
+      "title": "I Was Told There Would Bo No Math"
+    },
+    "3": {
+      "title": "Perfectly Spherical Houses in a Vacuum"
+    },
+    "4": {
+      "title": "The Ideal Stocking Stuffer"
+    },
+    "5": {
+      "title": "Doesn't He Have Intern-Elves For This?"
+    },
+    "6": {
+      "title": "Probably a Fire Hazard"
+    },
+    "7": {
+      "title": "TSome Assembly Required"
+    },
+    "8": {
+      "title": "Matchsticks"
+    },
+    "9": {
+      "title": "All in a Single Night"
+    },
+    "10": {
+      "title": "Elves Look, Elves Say"
+    },
+    "11": {
+      "title": "Corporate Policy"
+    },
+    "12": {
+      "title": "JSAbacusFramework.io"
+    },
+    "13": {
+      "title": "Knights of the Dinner Table"
+    },
+    "14": {
+      "title": "Reindeer Olympics"
+    },
+    "15": {
+      "title": "Science for Hungry People"
+    },
+    "16": {
+      "title": "Aunt Sue"
+    },
+    "17": {
+      "title": "No Such Thing as Too Much"
+    },
+    "18": {
+      "title": "Like a GIF For Your Yard"
+    },
+    "19": {
+      "title": "Medicine for Rudolph"
+    },
+    "20": {
+      "title": "Infinite Elves and Infinite Houses"
+    },
+    "21": {
+      "title": "RPG Simulator 20XX"
+    },
+    "22": {
+      "title": "Wizard Simulator 20XX"
+    },
+    "23": {
+      "title": "Opening the Turing Lock"
+    },
+    "24": {
+      "title": "It Hangs in the Balance"
+    },
+    "25": {
+      "title": "Let It Snow"
+    }
+  }
+}
