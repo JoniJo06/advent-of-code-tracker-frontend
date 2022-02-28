@@ -20,6 +20,8 @@ const YEARS = [ 2015, 2016, 2017, 2018, 2019, 2020, 2021 ];
 
 const App = () => {
   const location = useLocation();
+  // if the local storage entry yearInfo doesn't exist create a new one
+  // this is only relevant for the basic tracker
   useEffect(() => {
     if (!localStorage.getItem('yearsInfo')){
       const yearsInfo = {}
@@ -40,9 +42,11 @@ const App = () => {
       <MenuBar>
         <Routes>
           <Route path='/home' element={<HomePage />} />
+          {/*<Route path='/login' element={<LoginPage />} />*/}
           <Route path='/tracker/basic' element={<BasicTracker />} />
           {/* // TODO(#1): create trackerPage for every year*/}
           <Route path='/tracker/basic/:year' element={<div />} />
+          {/*<Route path='/tracker/personal' element={<PersonalTrackerList />} />*/}
           <Route path='/*' element={<Redirect location='home' />} />
         </Routes>
       </MenuBar>
