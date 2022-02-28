@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { MenuBar } from './Components';
-import { BasicTracker, HomePage } from './Pages';
+import { BasicTracker, HomePage, PersonalTrackerList } from './Pages';
 import { Wrapper } from './App.styles';
 
 type RedirectProps = {
@@ -23,17 +23,17 @@ const App = () => {
   // if the local storage entry yearInfo doesn't exist create a new one
   // this is only relevant for the basic tracker
   useEffect(() => {
-    if (!localStorage.getItem('yearsInfo')){
-      const yearsInfo = {}
-      YEARS.forEach((el)=> {
+    if (!localStorage.getItem('yearsInfo')) {
+      const yearsInfo = {};
+      YEARS.forEach((el) => {
+        //@ts-ignore
+        yearsInfo[el] = [];
+        for (let i = 1; i <= 25; i++) {
           //@ts-ignore
-          yearsInfo[el] = []
-        for(let i = 1; i <= 25; i++){
-          //@ts-ignore
-        yearsInfo[el].push(false)
+          yearsInfo[el].push(false);
         }
-      })
-      localStorage.setItem('yearsInfo', JSON.stringify(yearsInfo))
+      });
+      localStorage.setItem('yearsInfo', JSON.stringify(yearsInfo));
     }
 
   }, [ location ]);
@@ -46,7 +46,7 @@ const App = () => {
           <Route path='/tracker/basic' element={<BasicTracker />} />
           {/* // TODO(#1): create trackerPage for every year*/}
           <Route path='/tracker/basic/:year' element={<div />} />
-          {/*<Route path='/tracker/personal' element={<PersonalTrackerList />} />*/}
+          <Route path='/tracker/personal' element={<PersonalTrackerList />} />
           <Route path='/*' element={<Redirect location='home' />} />
         </Routes>
       </MenuBar>
