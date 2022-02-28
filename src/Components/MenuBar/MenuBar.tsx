@@ -16,7 +16,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { Wrapper } from './MenuBar.styles';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { Add } from '@mui/icons-material';
+import { Add as AddIcon } from '@mui/icons-material';
 
 type Props = {
   window?: () => Window
@@ -109,7 +109,7 @@ const MenuBar = (props: Props) => {
                   sx={{ paddingX: '5px', display: 'flex', gap: '5px' }}
                 >
                   Create new
-                  <Add />
+                  <AddIcon />
                 </Button>;
               default:
                 return null;
