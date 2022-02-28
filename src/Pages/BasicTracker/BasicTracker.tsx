@@ -19,14 +19,14 @@ const BasicTracker = () => {
   const handleChange =
           (panel: string) => (event: React.SyntheticEvent, isExpanded: boolean) => {
             setExpanded(isExpanded ? panel : false);
-            localStorage.setItem('openYear', JSON.stringify(isExpanded ? panel : false))
+            localStorage.setItem('openYear', JSON.stringify(isExpanded ? panel : false));
           };
 
   useEffect(() => {
     //@ts-ignore
     setYearsStatus(JSON.parse(localStorage.getItem('yearsInfo')));
     //@ts-ignore
-    setExpanded(JSON.parse(localStorage.getItem('openYear')))
+    setExpanded(JSON.parse(localStorage.getItem('openYear')));
   }, []);
 
   useEffect(() => {
