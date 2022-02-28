@@ -19,8 +19,9 @@ const  theme = createTheme({
     warning: {
       main: '#d2d245'
     }
-
-
+  },
+  typography:{
+    fontFamily: "\"Source Code Pro\", \"monospace\""
   }
                            })
 

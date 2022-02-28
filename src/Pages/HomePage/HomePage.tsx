@@ -11,8 +11,8 @@ const HomePage = () => {
       <br/>
       <Divider />
       <br/>
-      <Typography variant='body1'>You can start with a <span className='link' onClick={()=> navigate('/tracker/basic')}>basic Table</span>
-                                  or create a <span className='link' onClick={()=> navigate('/tracker/personal')}> custom Table</span>
+      <Typography variant='body1'>You can start with a <span className='link' onClick={()=> navigate('/tracker/basic')}>basic Table </span>
+                                   or create a <span className='link' onClick={()=> navigate('/tracker/personal')}> custom Table </span>
                                   (you need to <span className='link' onClick={()=> navigate('/login')}>login</span>).
                                   You are able to set all your preferences. For example your can select for everyday a random programming language
                                   from your defined list or list all your selected languages and tick all finished one.</Typography>
