@@ -15,7 +15,8 @@ import {
 import MenuIcon from '@mui/icons-material/Menu';
 import { Wrapper } from './MenuBar.styles';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { Add } from '@mui/icons-material';
 
 type Props = {
   window?: () => Window
@@ -25,7 +26,8 @@ type Props = {
 const MenuBar = (props: Props) => {
   const [ anchorEl, setAnchorEl ] = React.useState<null | HTMLElement>(null);
 
-  const navigate = useNavigate()
+  const navigate = useNavigate();
+  const location = useLocation();
 
   const handleMenu = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorEl(event.currentTarget);
@@ -35,7 +37,7 @@ const MenuBar = (props: Props) => {
     setAnchorEl(null);
   };
 
-  function ScrollTop(props: Props) {
+  const ScrollTop = (props: Props) => {
     const { children, window } = props;
     // Note that you normally won't need to set the window ref as useScrollTrigger
     // will default to window.
@@ -68,7 +70,7 @@ const MenuBar = (props: Props) => {
         </Box>
       </Zoom>
     );
-  }
+  };
 
   return (
     <Wrapper sx={{ flexGrow: 1 }}>
@@ -91,12 +93,28 @@ const MenuBar = (props: Props) => {
             <MenuItem onClick={handleClose}>Profile</MenuItem>
             <MenuItem onClick={handleClose}>My account</MenuItem>
           </Menu>
-          <Button onClick={()=> navigate('/home')}>
+          <Button onClick={() => navigate('/home')}>
             <Typography color='primary' variant='h6' component='div' sx={{ flexGrow: 1 }}>
               AOC-Tracker
             </Typography>
           </Button>
-          {/*<Button color="inherit">Login</Button>*/}
+          <Typography component='div' sx={{ flexGrow: 1 }} />
+          {(() => {
+            switch (location?.pathname) {
+              case '/tracker/personal':
+                return <Button
+                  onClick={() => navigate('create-personal')}
+                  variant='contained'
+                  color='primary'
+                  sx={{ paddingX: '5px', display: 'flex', gap: '5px' }}
+                >
+                  Create new
+                  <Add />
+                </Button>;
+              default:
+                return null;
+            }
+          })()}
         </Toolbar>
       </AppBar>
       <Toolbar id='back-to-top-anchor' />
