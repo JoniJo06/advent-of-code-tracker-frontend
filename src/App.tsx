@@ -44,9 +44,10 @@ const App = () => {
           <Route path='/home' element={<HomePage />} />
           {/*<Route path='/login' element={<LoginPage />} />*/}
           <Route path='/tracker/basic' element={<BasicTracker />} />
-          {/* // TODO(#1): create trackerPage for every year*/}
-          <Route path='/tracker/basic/:year' element={<div />} />
-          <Route path='/tracker/personal' element={<PersonalTrackerList />} />
+
+          {/*<Route path='/tracker/personal' element={<PersonalTrackerList />} />*/}
+          <Route path='/tracker/personal' element={<h1>In Progress!</h1>} />
+          <Route path='/tracker/create-personal' element={<h1>In Progress!</h1>} />
           <Route path='/*' element={<Redirect location='home' />} />
         </Routes>
       </MenuBar>
