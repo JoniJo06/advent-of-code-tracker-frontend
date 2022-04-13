@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { Route, Routes, useLocation, useNavigate } from 'react-router-dom';
 import { MenuBar } from './Components';
-import { BasicTracker, HomePage, PersonalTrackerList } from './Pages';
+import { BasicTracker, HomePage, PersonalTrackerList, CreatePersonalTracker } from './Pages';
 import { Wrapper } from './App.styles';
 
 type RedirectProps = {
@@ -45,9 +45,8 @@ const App = () => {
           {/*<Route path='/login' element={<LoginPage />} />*/}
           <Route path='/tracker/basic' element={<BasicTracker />} />
 
-          {/*<Route path='/tracker/personal' element={<PersonalTrackerList />} />*/}
-          <Route path='/tracker/personal' element={<h1>In Progress!</h1>} />
-          <Route path='/tracker/create-personal' element={<h1>In Progress!</h1>} />
+          <Route path='/tracker/create-personal' element={<CreatePersonalTracker />}/>
+          <Route path='/tracker/personal' element={<PersonalTrackerList />} />
           <Route path='/*' element={<Redirect location='home' />} />
         </Routes>
       </MenuBar>

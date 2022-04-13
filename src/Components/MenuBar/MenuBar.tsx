@@ -103,7 +103,7 @@ const MenuBar = (props: Props) => {
             switch (location?.pathname) {
               case '/tracker/personal':
                 return <Button
-                  onClick={() => navigate('tracker/create-personal')}
+                  onClick={() => navigate('/tracker/create-personal')}
                   variant='contained'
                   color='primary'
                   sx={{ paddingX: '5px', display: 'flex', gap: '5px' }}
