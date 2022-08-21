@@ -1,9 +1,0 @@
-title:
-  transforms:
-    - match: (.*) \*/
-      replace: $1
-    - match: (.*) \*\}
-      replace: $1
-keywords:
-  - TODO
-  - FIXME
