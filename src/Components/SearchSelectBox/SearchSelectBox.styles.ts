@@ -1,31 +1,27 @@
-import {styled} from '@mui/material/styles'
+/** @format */
 
+import { styled } from '@mui/material/styles';
+import { autocompleteClasses } from '@mui/material/Autocomplete';
 
-
-export const Wrapper = styled('div')(({theme}) => ({
-
-}))
+export const Wrapper = styled('div')(({ theme }) => ({}));
 
 export const Root = styled('div')(
-  ({ theme }) => `
-  color: ${
-    theme.palette.mode === 'dark' ? 'rgba(255,255,255,0.65)' : 'rgba(0,0,0,.85)'
-  };
+	({ theme }) => `
+  color: ${theme.palette.mode === 'dark' ? 'rgba(255,255,255,0.65)' : 'rgba(0,0,0,.85)'};
   font-size: 14px;
   align-self:center;
   width: 80%;
-`,
-
+`
 );
 
 export const Label = styled('label')`
-  padding: 0 0 4px;
-  line-height: 1.5;
-  display: block;
+	padding: 0 0 4px;
+	line-height: 1.5;
+	display: block;
 `;
 
 export const InputWrapper = styled('div')(
-  ({ theme }) => `
+	({ theme }) => `
   
   border: 1px solid ${theme.palette.mode === 'dark' ? '#434343' : '#d9d9d9'};
   background-color: ${theme.palette.mode === 'dark' ? '#141414' : '#fff'};
@@ -45,9 +41,7 @@ export const InputWrapper = styled('div')(
 
   & input {
     background-color: ${theme.palette.mode === 'dark' ? '#141414' : '#fff'};
-    color: ${
-    theme.palette.mode === 'dark' ? 'rgba(255,255,255,0.65)' : 'rgba(0,0,0,.85)'
-  };
+    color: ${theme.palette.mode === 'dark' ? 'rgba(255,255,255,0.65)' : 'rgba(0,0,0,.85)'};
     height: 30px;
     box-sizing: border-box;
     padding: 4px 6px;
@@ -58,11 +52,11 @@ export const InputWrapper = styled('div')(
     margin: 0;
     outline: 0;
   }
-`,
+`
 );
 
 export const Listbox = styled('ul')(
-  ({ theme }) => `
+	({ theme }) => `
   width: 300px;
   margin: 2px 0 0;
   padding: 0;
@@ -97,7 +91,7 @@ export const Listbox = styled('ul')(
     }
   }
 
-  & li[data-focus='true'] {
+  & li.${autocompleteClasses.focused} {
     background-color: ${theme.palette.mode === 'dark' ? '#003b57' : '#e6f7ff'};
     cursor: pointer;
 
@@ -105,5 +99,5 @@ export const Listbox = styled('ul')(
       color: currentColor;
     }
   }
-`,
+`
 );
