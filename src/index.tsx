@@ -1,40 +1,43 @@
+/** @format */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { createTheme, CssBaseline, ThemeProvider } from '@mui/material';
 import { BrowserRouter } from 'react-router-dom';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
-
-const  theme = createTheme({
-  palette: {
-    mode: 'dark',
-    background : {
-      default : '#0f0f23',
-      paper: '#0f0f23',
-    },
-    primary: {
-      main: '#277f0b'
-    },
-    warning: {
-      main: '#d2d245'
-    }
-  },
-  typography:{
-    fontFamily: "\"Source Code Pro\", \"monospace\""
-  }
-                           })
+const theme = createTheme({
+	palette: {
+		mode: 'dark',
+		background: {
+			default: '#0f0f23',
+			paper: '#0f0f23',
+		},
+		primary: {
+			main: '#277f0b',
+		},
+		warning: {
+			main: '#d2d245',
+		},
+	},
+	typography: {
+		fontFamily: '"Source Code Pro", "monospace"',
+	},
+});
 
 ReactDOM.render(
-  <React.StrictMode>
-    <BrowserRouter>
-    <ThemeProvider theme={theme}>
-      <App />
-      <CssBaseline />
-    </ThemeProvider>
-    </BrowserRouter>
-  </React.StrictMode>,
-  document.getElementById('root'),
+	<React.StrictMode>
+		<BrowserRouter>
+			<ThemeProvider theme={theme}>
+				<App />
+				<CssBaseline />
+				<ToastContainer />
+			</ThemeProvider>
+		</BrowserRouter>
+	</React.StrictMode>,
+	document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function

@@ -1,541 +1,541 @@
 {
-  "2015": {
-    "1": {
-      "title": "Not Quite Lisp"
-    },
-    "2": {
-      "title": "I Was Told There Would Bo No Math"
-    },
-    "3": {
-      "title": "Perfectly Spherical Houses in a Vacuum"
-    },
-    "4": {
-      "title": "The Ideal Stocking Stuffer"
-    },
-    "5": {
-      "title": "Doesn't He Have Intern-Elves For This?"
-    },
-    "6": {
-      "title": "Probably a Fire Hazard"
-    },
-    "7": {
-      "title": "Some Assembly Required"
-    },
-    "8": {
-      "title": "Matchsticks"
-    },
-    "9": {
-      "title": "All in a Single Night"
-    },
-    "10": {
-      "title": "Elves Look, Elves Say"
-    },
-    "11": {
-      "title": "Corporate Policy"
-    },
-    "12": {
-      "title": "JSAbacusFramework.io"
-    },
-    "13": {
-      "title": "Knights of the Dinner Table"
-    },
-    "14": {
-      "title": "Reindeer Olympics"
-    },
-    "15": {
-      "title": "Science for Hungry People"
-    },
-    "16": {
-      "title": "Aunt Sue"
-    },
-    "17": {
-      "title": "No Such Thing as Too Much"
-    },
-    "18": {
-      "title": "Like a GIF For Your Yard"
-    },
-    "19": {
-      "title": "Medicine for Rudolph"
-    },
-    "20": {
-      "title": "Infinite Elves and Infinite Houses"
-    },
-    "21": {
-      "title": "RPG Simulator 20XX"
-    },
-    "22": {
-      "title": "Wizard Simulator 20XX"
-    },
-    "23": {
-      "title": "Opening the Turing Lock"
-    },
-    "24": {
-      "title": "It Hangs in the Balance"
-    },
-    "25": {
-      "title": "Let It Snow"
-    }
-  },
-  "2016": {
-    "1": {
-      "title": "No Time for a Taxicab"
-    },
-    "2": {
-      "title": "Bathroom Security"
-    },
-    "3": {
-      "title": "Squares With Three Sides"
-    },
-    "4": {
-      "title": "Security Through Obscurity"
-    },
-    "5": {
-      "title": "How About a Nice Game of Chess"
-    },
-    "6": {
-      "title": "Signals and Noise"
-    },
-    "7": {
-      "title": "Internet Protocol Version 7"
-    },
-    "8": {
-      "title": "Two-Factor Authentication"
-    },
-    "9": {
-      "title": "Explosives in Cyberspace"
-    },
-    "10": {
-      "title": "Balance Bots"
-    },
-    "11": {
-      "title": "Radioisotope Thermoelectric Generators"
-    },
-    "12": {
-      "title": "Leonardo's Monorail"
-    },
-    "13": {
-      "title": "A Maze of Twisty Little Cubicles"
-    },
-    "14": {
-      "title": "One-Time Pad"
-    },
-    "15": {
-      "title": "Timing is Everything"
-    },
-    "16": {
-      "title": "Dragon Checksum"
-    },
-    "17": {
-      "title": "Two Steps Forward"
-    },
-    "18": {
-      "title": "Like a Rough"
-    },
-    "19": {
-      "title": "An Elephant Named Joseph"
-    },
-    "20": {
-      "title": "Firewall Rules"
-    },
-    "21": {
-      "title": "Scrambled Letters and Hash"
-    },
-    "22": {
-      "title": "Grid Computing"
-    },
-    "23": {
-      "title": "Safe Cracking"
-    },
-    "24": {
-      "title": "Air Duct Spelunking"
-    },
-    "25": {
-      "title": "Clock Signal"
-    }
-  },
-  "2017": {
-    "1": {
-      "title": "Inverse Captcha"
-    },
-    "2": {
-      "title": "Corruption Checksum"
-    },
-    "3": {
-      "title": "Spiral Memory"
-    },
-    "4": {
-      "title": "High-Entropy Passphrases"
-    },
-    "5": {
-      "title": "A Maze of Twisty Trampolines, All Alike"
-    },
-    "6": {
-      "title": "Memory Reallocation"
-    },
-    "7": {
-      "title": "Recursive Circus"
-    },
-    "8": {
-      "title": "I Heard You Like Registers"
-    },
-    "9": {
-      "title": "Stream Processing"
-    },
-    "10": {
-      "title": "Knot Hash"
-    },
-    "11": {
-      "title": "Hex Ed"
-    },
-    "12": {
-      "title": "Digital Plumber"
-    },
-    "13": {
-      "title": "Packet Scanners"
-    },
-    "14": {
-      "title": "Disk Defragmentation"
-    },
-    "15": {
-      "title": "Dueling Generators"
-    },
-    "16": {
-      "title": "Permutation Promenade"
-    },
-    "17": {
-      "title": "Spinlock"
-    },
-    "18": {
-      "title": "Duet"
-    },
-    "19": {
-      "title": "A Series of Tubes"
-    },
-    "20": {
-      "title": "Particle Swarm"
-    },
-    "21": {
-      "title": "Fractal Art"
-    },
-    "22": {
-      "title": "Sporifica Virus"
-    },
-    "23": {
-      "title": "Coprocessor Conflagration"
-    },
-    "24": {
-      "title": "Electromagnetic Moat"
-    },
-    "25": {
-      "title": "The Halting Problem"
-    }
-  },
-  "2018": {
-    "1": {
-      "title": "Chronal Calibration"
-    },
-    "2": {
-      "title": "Inventory Management System"
-    },
-    "3": {
-      "title": "No Matter How You Slice It"
-    },
-    "4": {
-      "title": "Repose Record"
-    },
-    "5": {
-      "title": "Alchemical Reduction"
-    },
-    "6": {
-      "title": "Chronal Coordinates"
-    },
-    "7": {
-      "title": "The Sum of Its Parts"
-    },
-    "8": {
-      "title": "Memory Maneuver"
-    },
-    "9": {
-      "title": "Marble Mania"
-    },
-    "10": {
-      "title": "The Stars Align"
-    },
-    "11": {
-      "title": "Chronal Charge"
-    },
-    "12": {
-      "title": "Subterranean Sustainability"
-    },
-    "13": {
-      "title": "Mine Cart Madness"
-    },
-    "14": {
-      "title": "Chocolate Charts"
-    },
-    "15": {
-      "title": "Beverage Bandits"
-    },
-    "16": {
-      "title": "Chronal Classification"
-    },
-    "17": {
-      "title": "Reservoir Research"
-    },
-    "18": {
-      "title": "Settlers of The North Pole"
-    },
-    "19": {
-      "title": "Go With The Flow"
-    },
-    "20": {
-      "title": "A Regular Map"
-    },
-    "21": {
-      "title": "Chronal Conversion"
-    },
-    "22": {
-      "title": "Mode Maze"
-    },
-    "23": {
-      "title": "Experimental Emergency Teleportation"
-    },
-    "24": {
-      "title": "Immune System Simulator 20XX"
-    },
-    "25": {
-      "title": "Four-Dimensional Adventure"
-    }
-  },
-  "2019": {
-    "1": {
-      "title": "The Tyranny of the Rocket Equation"
-    },
-    "2": {
-      "title": "1202 Program Alarm"
-    },
-    "3": {
-      "title": "Crossed Wires"
-    },
-    "4": {
-      "title": "Secure Container"
-    },
-    "5": {
-      "title": "Sunny with a Chance of Asteroids"
-    },
-    "6": {
-      "title": "Universal Orbit Map"
-    },
-    "7": {
-      "title": "Amplification Circuit"
-    },
-    "8": {
-      "title": "Space Image Format"
-    },
-    "9": {
-      "title": "Sensor Boost"
-    },
-    "10": {
-      "title": "Monitoring Station"
-    },
-    "11": {
-      "title": "Space Police"
-    },
-    "12": {
-      "title": "The N-Body Problem"
-    },
-    "13": {
-      "title": "Care Package"
-    },
-    "14": {
-      "title": "Space Stoichiometry"
-    },
-    "15": {
-      "title": "Oxygen Systems"
-    },
-    "16": {
-      "title": "Flawed Frequency Transmission"
-    },
-    "17": {
-      "title": "Set and Forget"
-    },
-    "18": {
-      "title": "Many-Worlds Interpretation"
-    },
-    "19": {
-      "title": "Tractor Beam"
-    },
-    "20": {
-      "title": "Donut Maze"
-    },
-    "21": {
-      "title": "Springdroid Adventure"
-    },
-    "22": {
-      "title": "Slam Shuffle"
-    },
-    "23": {
-      "title": "Category Six"
-    },
-    "24": {
-      "title": "Planet of Discord"
-    },
-    "25": {
-      "title": "Cryostasis"
-    }
-  },
-  "2020": {
-    "1": {
-      "title": "Report Repair"
-    },
-    "2": {
-      "title": "Password Philosophy"
-    },
-    "3": {
-      "title": "Toboggan Trajectory"
-    },
-    "4": {
-      "title": "Passport Processing"
-    },
-    "5": {
-      "title": "Binary Boarding"
-    },
-    "6": {
-      "title": "Custom Customs"
-    },
-    "7": {
-      "title": "Handy Haversacks"
-    },
-    "8": {
-      "title": "Handheld Halting"
-    },
-    "9": {
-      "title": "Encoding Error"
-    },
-    "10": {
-      "title": "Adapter Array"
-    },
-    "11": {
-      "title": "Seating System"
-    },
-    "12": {
-      "title": "Rain Risk"
-    },
-    "13": {
-      "title": "Shuttle Search"
-    },
-    "14": {
-      "title": "Docking Data"
-    },
-    "15": {
-      "title": "Rambunctious Recitation"
-    },
-    "16": {
-      "title": "Ticket Translation"
-    },
-    "17": {
-      "title": "Conway Cubes"
-    },
-    "18": {
-      "title": "Operation Order"
-    },
-    "19": {
-      "title": "Monster Messages"
-    },
-    "20": {
-      "title": "Jurassic Jigsaw"
-    },
-    "21": {
-      "title": "Allergen Assessment"
-    },
-    "22": {
-      "title": "Crab Combat"
-    },
-    "23": {
-      "title": "Crab Cups"
-    },
-    "24": {
-      "title": "Lobby Layout"
-    },
-    "25": {
-      "title": "Combo Breaker"
-    }
-  },
-  "2021": {
-    "1": {
-      "title": "Sonar Sweep"
-    },
-    "2": {
-      "title": "Dive!"
-    },
-    "3": {
-      "title": "Binary Diagnostic"
-    },
-    "4": {
-      "title": "Giant Squid"
-    },
-    "5": {
-      "title": "Hydrothermal Venture"
-    },
-    "6": {
-      "title": "Lanternfish"
-    },
-    "7": {
-      "title": "The Treachery of Whales"
-    },
-    "8": {
-      "title": "Seven Segment Search"
-    },
-    "9": {
-      "title": "Smoke Basin"
-    },
-    "10": {
-      "title": "Syntax Scoring"
-    },
-    "11": {
-      "title": "Dumbo Octopus"
-    },
-    "12": {
-      "title": "Passage Pathing"
-    },
-    "13": {
-      "title": "Transparent Origami"
-    },
-    "14": {
-      "title": "Extended Polymerization"
-    },
-    "15": {
-      "title": "Chiton"
-    },
-    "16": {
-      "title": "Packet Decoder"
-    },
-    "17": {
-      "title": "Trick Shot"
-    },
-    "18": {
-      "title": "Snailfish"
-    },
-    "19": {
-      "title": "Beacon Scanner"
-    },
-    "20": {
-      "title": "Trench Map"
-    },
-    "21": {
-      "title": "Dirac Dice"
-    },
-    "22": {
-      "title": "Reactor Reboot"
-    },
-    "23": {
-      "title": "Amphipod"
-    },
-    "24": {
-      "title": "Arithmetic Logic Unit"
-    },
-    "25": {
-      "title": "Sea Cucumber"
-    }
-  }
+	"2015": {
+		"1": {
+			"title": "Not Quite Lisp"
+		},
+		"2": {
+			"title": "I Was Told There Would Bo No Math"
+		},
+		"3": {
+			"title": "Perfectly Spherical Houses in a Vacuum"
+		},
+		"4": {
+			"title": "The Ideal Stocking Stuffer"
+		},
+		"5": {
+			"title": "Doesn't He Have Intern-Elves For This?"
+		},
+		"6": {
+			"title": "Probably a Fire Hazard"
+		},
+		"7": {
+			"title": "Some Assembly Required"
+		},
+		"8": {
+			"title": "Matchsticks"
+		},
+		"9": {
+			"title": "All in a Single Night"
+		},
+		"10": {
+			"title": "Elves Look, Elves Say"
+		},
+		"11": {
+			"title": "Corporate Policy"
+		},
+		"12": {
+			"title": "JSAbacusFramework.io"
+		},
+		"13": {
+			"title": "Knights of the Dinner Table"
+		},
+		"14": {
+			"title": "Reindeer Olympics"
+		},
+		"15": {
+			"title": "Science for Hungry People"
+		},
+		"16": {
+			"title": "Aunt Sue"
+		},
+		"17": {
+			"title": "No Such Thing as Too Much"
+		},
+		"18": {
+			"title": "Like a GIF For Your Yard"
+		},
+		"19": {
+			"title": "Medicine for Rudolph"
+		},
+		"20": {
+			"title": "Infinite Elves and Infinite Houses"
+		},
+		"21": {
+			"title": "RPG Simulator 20XX"
+		},
+		"22": {
+			"title": "Wizard Simulator 20XX"
+		},
+		"23": {
+			"title": "Opening the Turing Lock"
+		},
+		"24": {
+			"title": "It Hangs in the Balance"
+		},
+		"25": {
+			"title": "Let It Snow"
+		}
+	},
+	"2016": {
+		"1": {
+			"title": "No Time for a Taxicab"
+		},
+		"2": {
+			"title": "Bathroom Security"
+		},
+		"3": {
+			"title": "Squares With Three Sides"
+		},
+		"4": {
+			"title": "Security Through Obscurity"
+		},
+		"5": {
+			"title": "How About a Nice Game of Chess"
+		},
+		"6": {
+			"title": "Signals and Noise"
+		},
+		"7": {
+			"title": "Internet Protocol Version 7"
+		},
+		"8": {
+			"title": "Two-Factor Authentication"
+		},
+		"9": {
+			"title": "Explosives in Cyberspace"
+		},
+		"10": {
+			"title": "Balance Bots"
+		},
+		"11": {
+			"title": "Radioisotope Thermoelectric Generators"
+		},
+		"12": {
+			"title": "Leonardo's Monorail"
+		},
+		"13": {
+			"title": "A Maze of Twisty Little Cubicles"
+		},
+		"14": {
+			"title": "One-Time Pad"
+		},
+		"15": {
+			"title": "Timing is Everything"
+		},
+		"16": {
+			"title": "Dragon Checksum"
+		},
+		"17": {
+			"title": "Two Steps Forward"
+		},
+		"18": {
+			"title": "Like a Rough"
+		},
+		"19": {
+			"title": "An Elephant Named Joseph"
+		},
+		"20": {
+			"title": "Firewall Rules"
+		},
+		"21": {
+			"title": "Scrambled Letters and Hash"
+		},
+		"22": {
+			"title": "Grid Computing"
+		},
+		"23": {
+			"title": "Safe Cracking"
+		},
+		"24": {
+			"title": "Air Duct Spelunking"
+		},
+		"25": {
+			"title": "Clock Signal"
+		}
+	},
+	"2017": {
+		"1": {
+			"title": "Inverse Captcha"
+		},
+		"2": {
+			"title": "Corruption Checksum"
+		},
+		"3": {
+			"title": "Spiral Memory"
+		},
+		"4": {
+			"title": "High-Entropy Passphrases"
+		},
+		"5": {
+			"title": "A Maze of Twisty Trampolines, All Alike"
+		},
+		"6": {
+			"title": "Memory Reallocation"
+		},
+		"7": {
+			"title": "Recursive Circus"
+		},
+		"8": {
+			"title": "I Heard You Like Registers"
+		},
+		"9": {
+			"title": "Stream Processing"
+		},
+		"10": {
+			"title": "Knot Hash"
+		},
+		"11": {
+			"title": "Hex Ed"
+		},
+		"12": {
+			"title": "Digital Plumber"
+		},
+		"13": {
+			"title": "Packet Scanners"
+		},
+		"14": {
+			"title": "Disk Defragmentation"
+		},
+		"15": {
+			"title": "Dueling Generators"
+		},
+		"16": {
+			"title": "Permutation Promenade"
+		},
+		"17": {
+			"title": "Spinlock"
+		},
+		"18": {
+			"title": "Duet"
+		},
+		"19": {
+			"title": "A Series of Tubes"
+		},
+		"20": {
+			"title": "Particle Swarm"
+		},
+		"21": {
+			"title": "Fractal Art"
+		},
+		"22": {
+			"title": "Sporifica Virus"
+		},
+		"23": {
+			"title": "Coprocessor Conflagration"
+		},
+		"24": {
+			"title": "Electromagnetic Moat"
+		},
+		"25": {
+			"title": "The Halting Problem"
+		}
+	},
+	"2018": {
+		"1": {
+			"title": "Chronal Calibration"
+		},
+		"2": {
+			"title": "Inventory Management System"
+		},
+		"3": {
+			"title": "No Matter How You Slice It"
+		},
+		"4": {
+			"title": "Repose Record"
+		},
+		"5": {
+			"title": "Alchemical Reduction"
+		},
+		"6": {
+			"title": "Chronal Coordinates"
+		},
+		"7": {
+			"title": "The Sum of Its Parts"
+		},
+		"8": {
+			"title": "Memory Maneuver"
+		},
+		"9": {
+			"title": "Marble Mania"
+		},
+		"10": {
+			"title": "The Stars Align"
+		},
+		"11": {
+			"title": "Chronal Charge"
+		},
+		"12": {
+			"title": "Subterranean Sustainability"
+		},
+		"13": {
+			"title": "Mine Cart Madness"
+		},
+		"14": {
+			"title": "Chocolate Charts"
+		},
+		"15": {
+			"title": "Beverage Bandits"
+		},
+		"16": {
+			"title": "Chronal Classification"
+		},
+		"17": {
+			"title": "Reservoir Research"
+		},
+		"18": {
+			"title": "Settlers of The North Pole"
+		},
+		"19": {
+			"title": "Go With The Flow"
+		},
+		"20": {
+			"title": "A Regular Map"
+		},
+		"21": {
+			"title": "Chronal Conversion"
+		},
+		"22": {
+			"title": "Mode Maze"
+		},
+		"23": {
+			"title": "Experimental Emergency Teleportation"
+		},
+		"24": {
+			"title": "Immune System Simulator 20XX"
+		},
+		"25": {
+			"title": "Four-Dimensional Adventure"
+		}
+	},
+	"2019": {
+		"1": {
+			"title": "The Tyranny of the Rocket Equation"
+		},
+		"2": {
+			"title": "1202 Program Alarm"
+		},
+		"3": {
+			"title": "Crossed Wires"
+		},
+		"4": {
+			"title": "Secure Container"
+		},
+		"5": {
+			"title": "Sunny with a Chance of Asteroids"
+		},
+		"6": {
+			"title": "Universal Orbit Map"
+		},
+		"7": {
+			"title": "Amplification Circuit"
+		},
+		"8": {
+			"title": "Space Image Format"
+		},
+		"9": {
+			"title": "Sensor Boost"
+		},
+		"10": {
+			"title": "Monitoring Station"
+		},
+		"11": {
+			"title": "Space Police"
+		},
+		"12": {
+			"title": "The N-Body Problem"
+		},
+		"13": {
+			"title": "Care Package"
+		},
+		"14": {
+			"title": "Space Stoichiometry"
+		},
+		"15": {
+			"title": "Oxygen Systems"
+		},
+		"16": {
+			"title": "Flawed Frequency Transmission"
+		},
+		"17": {
+			"title": "Set and Forget"
+		},
+		"18": {
+			"title": "Many-Worlds Interpretation"
+		},
+		"19": {
+			"title": "Tractor Beam"
+		},
+		"20": {
+			"title": "Donut Maze"
+		},
+		"21": {
+			"title": "Springdroid Adventure"
+		},
+		"22": {
+			"title": "Slam Shuffle"
+		},
+		"23": {
+			"title": "Category Six"
+		},
+		"24": {
+			"title": "Planet of Discord"
+		},
+		"25": {
+			"title": "Cryostasis"
+		}
+	},
+	"2020": {
+		"1": {
+			"title": "Report Repair"
+		},
+		"2": {
+			"title": "Password Philosophy"
+		},
+		"3": {
+			"title": "Toboggan Trajectory"
+		},
+		"4": {
+			"title": "Passport Processing"
+		},
+		"5": {
+			"title": "Binary Boarding"
+		},
+		"6": {
+			"title": "Custom Customs"
+		},
+		"7": {
+			"title": "Handy Haversacks"
+		},
+		"8": {
+			"title": "Handheld Halting"
+		},
+		"9": {
+			"title": "Encoding Error"
+		},
+		"10": {
+			"title": "Adapter Array"
+		},
+		"11": {
+			"title": "Seating System"
+		},
+		"12": {
+			"title": "Rain Risk"
+		},
+		"13": {
+			"title": "Shuttle Search"
+		},
+		"14": {
+			"title": "Docking Data"
+		},
+		"15": {
+			"title": "Rambunctious Recitation"
+		},
+		"16": {
+			"title": "Ticket Translation"
+		},
+		"17": {
+			"title": "Conway Cubes"
+		},
+		"18": {
+			"title": "Operation Order"
+		},
+		"19": {
+			"title": "Monster Messages"
+		},
+		"20": {
+			"title": "Jurassic Jigsaw"
+		},
+		"21": {
+			"title": "Allergen Assessment"
+		},
+		"22": {
+			"title": "Crab Combat"
+		},
+		"23": {
+			"title": "Crab Cups"
+		},
+		"24": {
+			"title": "Lobby Layout"
+		},
+		"25": {
+			"title": "Combo Breaker"
+		}
+	},
+	"2021": {
+		"1": {
+			"title": "Sonar Sweep"
+		},
+		"2": {
+			"title": "Dive!"
+		},
+		"3": {
+			"title": "Binary Diagnostic"
+		},
+		"4": {
+			"title": "Giant Squid"
+		},
+		"5": {
+			"title": "Hydrothermal Venture"
+		},
+		"6": {
+			"title": "Lanternfish"
+		},
+		"7": {
+			"title": "The Treachery of Whales"
+		},
+		"8": {
+			"title": "Seven Segment Search"
+		},
+		"9": {
+			"title": "Smoke Basin"
+		},
+		"10": {
+			"title": "Syntax Scoring"
+		},
+		"11": {
+			"title": "Dumbo Octopus"
+		},
+		"12": {
+			"title": "Passage Pathing"
+		},
+		"13": {
+			"title": "Transparent Origami"
+		},
+		"14": {
+			"title": "Extended Polymerization"
+		},
+		"15": {
+			"title": "Chiton"
+		},
+		"16": {
+			"title": "Packet Decoder"
+		},
+		"17": {
+			"title": "Trick Shot"
+		},
+		"18": {
+			"title": "Snailfish"
+		},
+		"19": {
+			"title": "Beacon Scanner"
+		},
+		"20": {
+			"title": "Trench Map"
+		},
+		"21": {
+			"title": "Dirac Dice"
+		},
+		"22": {
+			"title": "Reactor Reboot"
+		},
+		"23": {
+			"title": "Amphipod"
+		},
+		"24": {
+			"title": "Arithmetic Logic Unit"
+		},
+		"25": {
+			"title": "Sea Cucumber"
+		}
+	}
 }
