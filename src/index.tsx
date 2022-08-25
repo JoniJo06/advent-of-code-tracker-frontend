@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { createTheme, CssBaseline, ThemeProvider } from '@mui/material';
 import { BrowserRouter } from 'react-router-dom';
-import { ToastContainer } from 'react-toastify';
+import { ToastContainer, Slide } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const theme = createTheme({
@@ -33,7 +33,7 @@ ReactDOM.render(
 			<ThemeProvider theme={theme}>
 				<App />
 				<CssBaseline />
-				<ToastContainer />
+				<ToastContainer limit={3} transition={Slide} />
 			</ThemeProvider>
 		</BrowserRouter>
 	</React.StrictMode>,

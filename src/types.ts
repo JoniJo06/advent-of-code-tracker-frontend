@@ -6,10 +6,25 @@ export type userType = {
 	admin: boolean;
 };
 
+type dayType = {
+	_completed: boolean;
+	[key: string]: boolean;
+};
+
+type yearType = {
+	[key: string]: dayType;
+};
+
+type yearsType = {
+	[key: string]: yearType;
+};
+
 export type personalTrackerType = {
 	id: number;
 	name: string;
-	programingLanguages: string[];
+	programmingLanguages: string[];
 	yearsToFinish: string[];
 	completionsPerDay: number;
+	languageSelectionRandom: boolean;
+	years: yearsType;
 };
